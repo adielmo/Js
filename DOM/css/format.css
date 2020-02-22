@@ -1,0 +1,55 @@
+    body h1#dom {
+        color: #e03a3a;
+        font-size: 40pt;
+        font-family: Arial, sans-serif;
+        padding-top: 20pt;
+        text-align: center;
+    }
+    
+    div p.dom {
+        color: #2a27df;
+    }
+    
+    div#des h4 {
+        text-align: center;
+        font-size: 15pt;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    
+    div#des h4:hover {
+        color: #0caa13;
+        text-decoration: underline;
+    }
+    
+    div#des ul {
+        list-style: none;
+        width: 93%;
+        max-width: 325px;
+        box-shadow: 10px 0px 0px 0px #111111;
+    }
+    
+    div#order h4 {
+        text-align: center;
+        color: #111111;
+        font-size: 15pt;
+        font-weight: bold;
+        text-transform: lowercase;
+    }
+    
+    div#order h4:hover {
+        color: #2b07c8;
+        font-size: 20pt;
+        text-transform: uppercase;
+    }
+    
+    div#order li:hover {
+        list-style: none;
+        padding: 20px;
+        color: #fff;
+        text-transform: uppercase;
+        background-color: #0caa13;
+        text-align: center;
+        font-weight: bold;
+        font-size: 20pt;
+    }
